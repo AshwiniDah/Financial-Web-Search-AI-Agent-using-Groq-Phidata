@@ -33,10 +33,15 @@ OpenAI	OPENAI_API_KEY	https://platform.openai.com/account/api-keys
 You can set these as environment variables or store them securely in your .env file.
 
 ## 🛠️ Tech Stack
+
 Phidata (multi-agent framework)
+
 Groq (high-performance LLM API)
+
 yfinance via phi.tools.YFinanceTools
+
 DuckDuckGo for live web search
+
 Python 3.10+
 
 ## 📦 Setup
