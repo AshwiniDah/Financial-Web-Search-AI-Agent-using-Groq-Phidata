@@ -9,22 +9,22 @@ Current stock prices
 
 Key financial fundamentals
 
-🌐## Web Search AI Agent
+##🌐 Web Search AI Agent
 Uses DuckDuckGo to:
 
 Search the latest news and online content
 
 Automatically include sources for credibility
 
-🤖## Multi-Agent Orchestration
+##🤖 Multi-Agent Orchestration
 Combines multiple agents (finance + web) to answer complex prompts like:
 
 “Summarize analyst recommendation and share the latest news for NVDIA”
 
-🚀 ##Powered by Groq + LLaMA 3
+##🚀 Powered by Groq + LLaMA 3
 Ultra-fast response using llama3-groq-70b
 
-🛠️## Tech Stack
+##🛠️ Tech Stack
 Phidata (multi-agent framework)
 
 Groq (high-performance LLM API)
