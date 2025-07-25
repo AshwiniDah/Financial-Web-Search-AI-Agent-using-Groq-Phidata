@@ -37,13 +37,16 @@ Python 3.10+
 
 📦 Setup
 ## Create virtual environment
-bash...
+```bash
 python -m venv venv
 source venv/bin/activate   # or venv\Scripts\activate on Windows
-...
-
+```
 ## Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ## Run the agent
+```bash
 python financial_agent.py
+```
