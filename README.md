@@ -22,7 +22,7 @@ Combines multiple agents (finance + web) to answer complex prompts like:
 “Summarize analyst recommendation and share the latest news for NVDA”
 
 🚀 Powered by Groq + LLaMA 3
-Ultra-fast response using llama3-groq-70b — no OpenAI API key required.
+Ultra-fast response using llama3-groq-70b
 
 🛠️ Tech Stack
 Phidata (multi-agent framework)
@@ -37,8 +37,10 @@ Python 3.10+
 
 📦 Setup
 ## Create virtual environment
+bash...
 python -m venv venv
 source venv/bin/activate   # or venv\Scripts\activate on Windows
+...
 
 ## Install dependencies
 pip install -r requirements.txt
