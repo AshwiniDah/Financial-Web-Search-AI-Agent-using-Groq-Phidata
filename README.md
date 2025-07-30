@@ -42,7 +42,7 @@ yfinance via phi.tools.YFinanceTools
 
 DuckDuckGo for live web search
 
-Python 3.10+
+Python 3.12
 
 ### 📦 Setup
 
